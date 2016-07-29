@@ -5,9 +5,7 @@ Development environment for the BLE Nano from Read Bear Lab using Vagrant.
 # Instructions
 
 1. Download and install Vagrant
-
 2. Download and install Virtual Box
-
 3. Clone repo
 
     ```sh
@@ -24,4 +22,3 @@ Development environment for the BLE Nano from Read Bear Lab using Vagrant.
 7. Select the HRS app, you should be able to connect to your BLE Nano and verify that it is sending data.
 8. Review bootstrap.sh to see how the build is done
 9. ```$ vagrant ssh``` to ssh into the build system
-
